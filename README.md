@@ -11,8 +11,7 @@ Guide link: <link here>
 - Clone repository
 
 	`
-	git clone https://github.com/krazygaurav/Django-channels-Tic-Tac-Toe
-	`
+	git clone https://github.com/hritikkarwasra/Django_TIC_TAC_TOE-Game
 
 - cd to repository.
 
